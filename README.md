@@ -8,7 +8,6 @@ Atualmente, estou focado em:
 
 - Desenvolvimento em Java ☕
 - Aplicações Back-End e arquitetura de sistemas 🔧
-- Projetos de software voltados para sustentabilidade 🌍
 
 ### 🚀 Minhas metas atuais:
 
