@@ -24,7 +24,14 @@ Atualmente, estou focado em:
 
 ### 🌱 O que estou aprendendo:
 
-- Estudando Java.
+- Estudando **Java**.
+- **Boas práticas de código** e padrões de projeto.
+- **Controle de versão** e fluxo de trabalho em equipes.
+
+### 📫 Como me encontrar:
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-salvadorc)
+- [Email](mailto:lucassalvadorcarmo@hotmail.com)
 
 <!--
 **lucksc2805/lucksc2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
